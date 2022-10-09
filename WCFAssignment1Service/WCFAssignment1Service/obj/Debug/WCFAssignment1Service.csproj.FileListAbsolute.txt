@@ -1,0 +1,7 @@
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\WCFAssignment1Service\bin\WCFAssignment1Service.dll.config
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\WCFAssignment1Service\bin\WCFAssignment1Service.dll
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\WCFAssignment1Service\bin\WCFAssignment1Service.pdb
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\WCFAssignment1Service\obj\Debug\WCFAssignment1Service.csproj.AssemblyReference.cache
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\WCFAssignment1Service\obj\Debug\WCFAssignment1Service.csproj.CoreCompileInputs.cache
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\WCFAssignment1Service\obj\Debug\WCFAssignment1Service.dll
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\WCFAssignment1Service\obj\Debug\WCFAssignment1Service.pdb

@@ -1,0 +1,8 @@
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\Assignment1Client\obj\Debug\Assignment1Client.csproj.AssemblyReference.cache
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\Assignment1Client\obj\Debug\Assignment1Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\Assignment1Client\obj\Debug\Assignment1Client.csproj.CoreCompileInputs.cache
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\Assignment1Client\bin\Debug\Assignment1Client.exe.config
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\Assignment1Client\bin\Debug\Assignment1Client.exe
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\Assignment1Client\bin\Debug\Assignment1Client.pdb
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\Assignment1Client\obj\Debug\Assignment1Client.exe
+C:\Users\fifi0\Desktop\Prog3170\Assignment 1\wcf-assignment1\WCFAssignment1Service\Assignment1Client\obj\Debug\Assignment1Client.pdb
